@@ -3,9 +3,9 @@
 Flutter App that shows details about marvel characters
 
 ## Resources
- - (UI Inspiration)[https://dribbble.com/shots/6393964-Despicable-Me-Character-Ui]
- - (Ubuntu Icons/Google Fonts)[https://fonts.google.com/specimen/Ubuntu?preview.text_type=custom]
- - (Images)[https://www.deviantart.com/]
+ - [UI Inspiration](https://dribbble.com/shots/6393964-Despicable-Me-Character-Ui)
+ - [Ubuntu Icons/Google Fonts](https://fonts.google.com/specimen/Ubuntu?preview.text_type=custom)
+ - [Images](https://www.deviantart.com/)
 
 ## Getting Started
 
